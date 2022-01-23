@@ -34,3 +34,4 @@ Dashboard will show:
 - Current number of accepted projects
 - Sum of projects' revenue
 - Sum of projects' calculated profits
+- Sum of projects' calculated profits minus estimated taxes?
