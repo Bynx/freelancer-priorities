@@ -29,3 +29,8 @@ When a project is chosen to start:
   - To prevent clients from rescheduling outside of work hours, keep a record of the freelancer's working hours on their account.
     - Allow the freelancer to mark time off, half days, holidays, days off, etc.
     - When the freelancer takes a sick/emergency time off, automatically reschedule all projects and notify the clients that their dates have to be pushed by x days?
+
+Dashboard will show:
+- Current number of accepted projects
+- Sum of projects' revenue
+- Sum of projects' calculated profits
