@@ -1,4 +1,4 @@
-#Freelancer Priorities
+# Freelancer Priorities
 A basic application to help freelancers prioritize their projects by:
 - Name and Email address of the client
 - Is the project in person or remote?
